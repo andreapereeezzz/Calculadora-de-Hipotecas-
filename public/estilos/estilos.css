@@ -1,0 +1,22 @@
+.container {
+  padding: 7% 14%;
+}
+
+h1 {
+  border-top: #198754 solid 3px;
+  border-bottom: #198754 solid 3px;
+  font-size: 1.5em;
+  color:#198754; 
+}
+
+.grande {
+  text-decoration: none;
+  padding: 40px;
+  text-transform: uppercase;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-weight: 800;
+  font-size: 25px;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}

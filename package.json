@@ -1,0 +1,19 @@
+{
+  "name": "casas",
+  "version": "1.0.0",
+  "description": "calculadora de hipoteca de una casa",
+  "main": "casas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hipoteca",
+    "calculadora"
+  ],
+  "author": "Andrea",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
